@@ -10,7 +10,8 @@
 - <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/data.csv%20promomtion.csv">Promotion</a>
 
 ## Dashboard:
-![Employement](https://github.com/user-attachments/assets/dc6cef6c-724c-45f5-9eaa-b846a912def8)
+![Employement](https://github.com/user-attachments/assets/5c48bada-30e4-4bfe-a0ae-1ce8df5079bc)
+
 
 
 This project is an HR Analytics Dashboard created in Power BI, designed to provide comprehensive insights into workforce composition, promotion eligibility, and employee service metrics. This dashboard is ideal for HR departments looking to quickly assess employee statistics and make data-driven decisions. The key features include:
