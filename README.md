@@ -1,6 +1,6 @@
 ## HR Analytics Dashboard in Power BI
 
-•  This project is an HR Analytics Dashboard created in Power BI, designed to provide comprehensive insights into workforce composition, promotion eligibility, and employee service metrics. This dashboard is ideal for HR departments looking to quickly assess employee statistics and make data-driven decisions. The key features include:
+# This project is an HR Analytics Dashboard created in Power BI, designed to provide comprehensive insights into workforce composition, promotion eligibility, and employee service metrics. This dashboard is ideal for HR departments looking to quickly assess employee statistics and make data-driven decisions. The key features include:
 
 - Total Employee Overview: Displays the total headcount, segmented by gender (male/female) for a quick demographic view.
 
@@ -15,4 +15,4 @@
 - Job Level Breakdown: Offers insights into the distribution of employees, categorized by job levels and gender, to understand representation and hierarchy balance within the 
   organization.
 
-• This dashboard leverages Power BI’s visualization capabilities to transform raw HR data into actionable insights, enhancing the ability to make strategic HR decisions effectively.
+# This dashboard leverages Power BI’s visualization capabilities to transform raw HR data into actionable insights, enhancing the ability to make strategic HR decisions effectively.
