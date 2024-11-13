@@ -1,13 +1,13 @@
 ## HR Analytics Dashboard in Power BI
 
 # Dataset Used:
-- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">HRanalytics</a>
+- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">EmployeeData</a>
 
-- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv"></a>
+- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20Analytics%20Data.csv">HRAnalytics</a>
 
-- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">Dataset</a>
+- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/data.csv%20Retrenchment.csv">Retrenchment</a>
 
-- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">Dataset</a>
+- <a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/data.csv%20promomtion.csv">Promotion</a>
 
 This project is an HR Analytics Dashboard created in Power BI, designed to provide comprehensive insights into workforce composition, promotion eligibility, and employee service metrics. This dashboard is ideal for HR departments looking to quickly assess employee statistics and make data-driven decisions. The key features include:
 
