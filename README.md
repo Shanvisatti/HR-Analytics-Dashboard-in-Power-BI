@@ -1,7 +1,7 @@
 ## HR Analytics Dashboard in Power BI
 
 # Dataset Used:
-< a href= "https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">Datasetused</a>
+- < a href="https://github.com/Shanvisatti/HR-Analytics-Dashboard-in-Power-BI/blob/main/Clustered%20HR%20Data/HR%20employee%20data.csv">Datasetused</a>
 
 This project is an HR Analytics Dashboard created in Power BI, designed to provide comprehensive insights into workforce composition, promotion eligibility, and employee service metrics. This dashboard is ideal for HR departments looking to quickly assess employee statistics and make data-driven decisions. The key features include:
 
